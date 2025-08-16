@@ -96,4 +96,18 @@ Clauses are formed by attaching a fixed particle after a full sentence.
   - Formed by adding a specific particle after a sentence (see vocabulary list).  
   - Example:  
     - 나는 밥을 먹었다**그때** 친구는 공부를 하었다.  
-      → *I ate a meal, while at that time my friend studied.*  
+      → *I ate a meal, while at that time my friend studied.*
+
+## 7. Wh-words (in progress.. inconsistency)
+
+- **interrogatives**
+  - Used to form questions by placing a wh-word at the beginning of the clause.  
+  - Wh-words: *언제 (when)*, *어디 (where)*, *무엇 (what)*, *어떻게 (how)*, *얼마 (how much)* *누구 (who)* *왜 (why)*
+  - Method: put the wh-word in front of the clause; word order otherwise remains the same.  
+  - Examples:  
+    - **언제** 너는 여기 오겠다요? → *When will you come here?*  
+    - **어디** 로부터 너는 이다요? → *Where are you from?*  
+    - **무엇을** 너는 하는 중이다요? → *What are you doing?*  
+    - **어떻게** 너는 이다요? → *How are you?*  
+    - **얼마** 그것는 이다요? → *How much is it?*  
+    - **왜** 너는 안오었다요? → *Why didn't you come?*
