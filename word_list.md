@@ -149,9 +149,18 @@ This list provides only the minimal core.
 | 에     | at        |
 | 로 | to |
 | 안에    | in        |
+| 로부터 | from |
 
 ## Additional Particles (not required for sentence but auxilary)
 
 | Hanla | English Function |
 |-------|------------------|
 | -로서  | as / by means of |
+
+## Clause Linkage
+
+| Hanla | English Function |
+|-------|------------------|
+| 그리고  | and       |
+| (clause) 그러면    | if  (clause)  |
+| 왜냐하면| because   |
