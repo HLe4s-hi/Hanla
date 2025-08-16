@@ -20,6 +20,11 @@ This list provides only the minimal core.
 | 우리  | we      | plural, 1st person |
 | 너희  | you     | plural, 2nd person |
 | 그들  | they    | plural, 3rd person |
+| 이건    | this      |
+| 저건    | that      |
+| 여기    | here      |
+| 거기    | there     |
+
 
 ---
 
@@ -36,7 +41,22 @@ This list provides only the minimal core.
 | 있-   | exist / have |
 | 없-   | not exist |
 | 말하- | speak   |
-| 듣-   | listen  ||
+| 듣-   | listen  |
+| 마시-   | drink      |
+| 물-     | bite       |
+| 듣-     | hear       |
+| 자-     | sleep      |
+| 죽-     | die        |
+| 죽이-   | kill       |
+| 수영하- | swim       |
+| 날-     | fly        |
+| 걷-     | walk       |
+| 눕-     | lie (down) |
+| 앉-     | sit        |
+| 서-     | stand      |
+| 주-     | give       |
+| 말하-   | say        |
+| 타-     | burn       |
 
 ### endings (with roots, they can be actual verb)
 | Hanla | English |
@@ -63,17 +83,45 @@ This list provides only the minimal core.
 
 ## Adjectives
 
-| Hanla | English |
-|-------|---------|
-| 파란  | blue |
-| 높은  | tall / high |
-| 작은  | small |
-| 큰    | big |
-| 빠른  | fast |
-| 느린  | slow |
-| 좋은  | good |
-| 나쁜  | bad |
-
+| Hanla    | English       |
+|----------|---------------|
+| 파란     | blue          |
+| 높은     | tall / high   |
+| 작은     | small         |
+| 큰       | big           |
+| 빠른     | fast          |
+| 느린     | slow          |
+| 좋은     | good          |
+| 나쁜     | bad           |
+| 긴       | long          |
+| 빨간     | red           |
+| 초록색인 | green         |
+| 노란     | yellow        |
+| 흰       | white         |
+| 검은     | black         |
+| 따뜻한   | warm          |
+| 차가운   | cold          |
+| 가득한   | full          |
+| 새       | new           |
+| 오래된   | old           |
+| 썩은     | rotten        |
+| 더러운   | dirty         |
+| 곧은     | straight      |
+| 둥근     | round         |
+| 날카로운 | sharp         |
+| 무딘     | dull          |
+| 매끈한   | smooth        |
+| 젖은     | wet           |
+| 마른     | dry           |
+| 옳은     | correct/right |
+| 가까운   | near          |
+| 먼       | far           |
+| 오른쪽인 | right (side)  |
+| 왼쪽인   | left (side)   |
+| 많은    | many      |
+| 어떤    | some      |
+| 적은    | few       |
+| 다른    | other     |
 ---
 
 ## Adverbs
@@ -86,6 +134,7 @@ This list provides only the minimal core.
 | 지금  | now |
 | 빨리  | quickly |
 | 천천히 | slowly |
+| 모두    | all       |
 
 ---
 
@@ -97,6 +146,9 @@ This list provides only the minimal core.
 | 를    | object marker |
 | 와    | with / and |
 | 의    | of / possessive |
+| 에     | at        |
+| 로 | to |
+| 안에    | in        |
 
 ## Additional Particles (not required for sentence but auxilary)
 
