@@ -14,69 +14,70 @@ This list provides the minimal words which cover Swadesh lists.
 
 ## Pronouns
 
-| Hanla | English | Note |
-|-------|---------|------|
-| 나    | I / me  | singular, 1st person |
-| 너    | you     | singular, 2nd person |
-| 그    | he      | singular, 3rd person |
-| 그녀  | she     | singular, 3rd person |
-| 우리  | we      | plural, 1st person |
-| 너희  | you     | plural, 2nd person |
-| 그들  | they    | plural, 3rd person |
-| 이건    | this      |
-| 저건    | that      |
-| 여기    | here      |
-| 거기    | there     |
-
+| Hanla | Romanization | IPA | English |
+|-------|--------------|-----|---------|
+| 나    | na           | [na] | I / me  |
+| 너    | neo          | [nʌ] | you     |
+| 그    | geu          | [kɯ] | he      |
+| 그녀  | geunyeo      | [kɯ.njʌ] | she     |
+| 우리  | uri          | [u.ɾi] | we      |
+| 너희  | neohui       | [nʌ.hɥi] | you (plural) |
+| 그들  | geudeul      | [kɯ.dɯl] | they    |
+| 이건  | igeon        | [i.gʌn] | this    |
+| 저건  | jeogeon      | [tɕʌ.gʌn] | that    |
+| 여기  | yeogi        | [jʌ.gi] | here    |
+| 거기  | geogi        | [kʌ.gi] | there   |
 
 ---
 
 ## Verbs 
 ### roots (must be attached with endings below)
-| Hanla | English |
-|-------|---------|
-| 가-   | go      |
-| 오-   | come    |
-| 먹-   | eat     |
-| 보-   | see     |
-| 알-   | know    |
-| 하-   | do      |
-| 있-   | exist / have |
-| 없-   | not exist |
-| 말하- | speak   |
-| 듣-   | listen  |
-| 마시-   | drink      |
-| 물-     | bite       |
-| 듣-     | hear       |
-| 자-     | sleep      |
-| 죽-     | die        |
-| 죽이-   | kill       |
-| 수영하- | swim       |
-| 날-     | fly        |
-| 걷-     | walk       |
-| 눕-     | lie (down) |
-| 앉-     | sit        |
-| 서-     | stand      |
-| 주-     | give       |
-| 말하-   | say        |
-| 타-     | burn       |
+
+| Hanla   | Romanization | IPA | English |
+|---------|--------------|-----|---------|
+| 가-     | ga-          | [ka] | go      |
+| 오-     | o-           | [o] | come    |
+| 먹-     | meok-        | [mʌk̚] | eat    |
+| 보-     | bo-          | [po] | see     |
+| 알-     | al-          | [al] | know    |
+| 하-     | ha-          | [ha] | do      |
+| 있-     | iss-         | [it͈] | exist / have |
+| 없-     | eops-        | [ʌp̚s͈] | not exist |
+| 말하-   | malha-       | [mal.ha] | speak   |
+| 듣-     | deut-        | [tɯt̚] | listen  |
+| 마시-   | masi-        | [ma.ɕi] | drink   |
+| 물-     | mul-         | [mul] | bite    |
+| 듣-     | deut-        | [tɯt̚] | hear    |
+| 자-     | ja-          | [tɕa] | sleep   |
+| 죽-     | juk-         | [tɕuk̚] | die    |
+| 죽이-   | juki-        | [tɕu.ɡi] | kill   |
+| 수영하- | suyeongha-   | [su.jʌŋ.ha] | swim |
+| 날-     | nal-         | [nal] | fly     |
+| 걷-     | geot-        | [kʌt̚] | walk    |
+| 눕-     | nup-         | [nup̚] | lie (down) |
+| 앉-     | anj-         | [an.dʑ] | sit    |
+| 서-     | seo-         | [sʌ] | stand   |
+| 주-     | ju-          | [tɕu] | give    |
+| 말하-   | malha-       | [mal.ha] | say    |
+| 타-     | ta-          | [tʰa] | burn    |
 
 ### endings (with roots, they can be actual verb)
-| Hanla | English |
-|-------|---------|
-| -다   | present phase of verb        |
-| -었다   | past phase of verb     |
-| -겠다   | future phase of verb      |
-| -는 중 이다   | progressive phase of verb (literally "in the middle of")       |
-| -을 수 있다    | can / be able to      |
-| -을 수 없다    | cannot                |
-| -어도 되다    | may / be allowed      |
-| -어야 하다  | must / have to        |
-| -고 싶다    | want to               |
-| -어야 하겠다 | should / ought to    |
-| -는 것 같다 | seems / appears       |
 
-**Conjugation (examples)**  
+| Hanla        | Romanization   | IPA | English |
+|--------------|----------------|-----|---------|
+| -다          | -da            | [ta] | present |
+| -었다        | -eotda         | [ʌt̚.ta] | past |
+| -겠다        | -getda         | [ket̚.ta] | future |
+| -는 중 이다  | -neun jung ida | [nɯn dʑuŋ i.da] | progressive |
+| -을 수 있다  | -eul su itda   | [ɯl su it̚.ta] | can |
+| -을 수 없다  | -eul su eopda  | [ɯl su ʌp̚.ta] | cannot |
+| -어도 되다   | -eodo doeda    | [ʌ.do tʰwe.da] | may |
+| -어야 하다   | -eoya hada     | [ʌ.ja ha.da] | must |
+| -고 싶다     | -go sipda      | [ko ɕip̚.ta] | want |
+| -어야 하겠다 | -eoya hagetda  | [ʌ.ja ha.ket̚.ta] | should |
+| -는 것 같다  | -neun geot gatda | [nɯn kʌt̚ kat̚.ta] | seems |
+
+**Conjugation (examples)** 
 - Base: -다 (present statement) → 가다, 먹다 means to go, to eat
 - Past: -었다 → 갔다, 먹었다 means went, ate
 - Future: -겠다 → 가겠다, 먹겠다 means will go, will eat
@@ -86,84 +87,89 @@ This list provides the minimal words which cover Swadesh lists.
 
 ## Adjectives
 
-| Hanla    | English       |
-|----------|---------------|
-| 파란     | blue          |
-| 높은     | tall / high   |
-| 작은     | small         |
-| 큰       | big           |
-| 빠른     | fast          |
-| 느린     | slow          |
-| 좋은     | good          |
-| 나쁜     | bad           |
-| 긴       | long          |
-| 빨간     | red           |
-| 초록색인 | green         |
-| 노란     | yellow        |
-| 흰       | white         |
-| 검은     | black         |
-| 따뜻한   | warm          |
-| 차가운   | cold          |
-| 가득한   | full          |
-| 새       | new           |
-| 오래된   | old           |
-| 썩은     | rotten        |
-| 더러운   | dirty         |
-| 곧은     | straight      |
-| 둥근     | round         |
-| 날카로운 | sharp         |
-| 무딘     | dull          |
-| 매끈한   | smooth        |
-| 젖은     | wet           |
-| 마른     | dry           |
-| 옳은     | correct/right |
-| 가까운   | near          |
-| 먼       | far           |
-| 오른쪽인 | right (side)  |
-| 왼쪽인   | left (side)   |
-| 많은    | many      |
-| 어떤    | some      |
-| 적은    | few       |
-| 다른    | other     |
+| Hanla    | Romanization | IPA | English |
+|----------|--------------|-----|---------|
+| 파란     | paran        | [pʰa.ɾan] | blue |
+| 높은     | nopeun       | [no.pɯn] | tall / high |
+| 작은     | jageun       | [tɕa.gɯn] | small |
+| 큰       | keun         | [kʰɯn] | big |
+| 빠른     | ppareun      | [p͈a.ɾɯn] | fast |
+| 느린     | neurin       | [nɯ.ɾin] | slow |
+| 좋은     | joeun        | [tɕo.ɯn] | good |
+| 나쁜     | nappeun      | [nap͈ɯn] | bad |
+| 긴       | gin          | [kin] | long |
+| 빨간     | ppalgan      | [p͈al.ɡan] | red |
+| 초록색인 | choroksaegin | [tɕʰo.ɾok̚.sɛ.ɡin] | green |
+| 노란     | noran        | [no.ɾan] | yellow |
+| 흰       | huin         | [hin] | white |
+| 검은     | geomeun      | [kʌ.mɯn] | black |
+| 따뜻한   | ttatteuthan  | [t͈a.t͈ɯ.tʰan] | warm |
+| 차가운   | chagaun      | [tɕʰa.ɡa.un] | cold |
+| 가득한   | gadeukhan    | [ka.dɯ.kʰan] | full |
+| 새       | sae          | [sɛ] | new |
+| 오래된   | oraedoen     | [o.ɾɛ.døːn] | old |
+| 썩은     | sseogeun     | [s͈ʌ.kɯn] | rotten |
+| 더러운   | deoreoun     | [tʌ.ɾʌ.un] | dirty |
+| 곧은     | godeun       | [ko.dɯn] | straight |
+| 둥근     | dunggeun     | [tuŋ.gɯn] | round |
+| 날카로운 | nalkaroun    | [nal.kʰa.ɾo.un] | sharp |
+| 무딘     | mudin        | [mu.din] | dull |
+| 매끈한   | maekkeunhan  | [mɛ.k͈ɯn.han] | smooth |
+| 젖은     | jeojeun      | [tɕʌ.dʑɯn] | wet |
+| 마른     | mareun       | [ma.ɾɯn] | dry |
+| 옳은     | orheun       | [oɭ.ɯn] | correct |
+| 가까운   | gakkaun      | [ka.k͈a.un] | near |
+| 먼       | meon         | [mʌn] | far |
+| 오른쪽인 | oreunjjogin  | [o.ɾɯn.t͈ɕ͈o.ɡin] | right (side) |
+| 왼쪽인   | oenjjogin    | [wɛn.t͈ɕ͈o.ɡin] | left (side) |
+| 많은     | maneun       | [ma.nɯn] | many |
+| 어떤     | eotteon      | [ʌ.t͈ʌn] | some |
+| 적은     | jeogeun      | [tɕʌ.gɯn] | few |
+| 다른     | dareun       | [ta.ɾɯn] | other |
+
 ---
 
 ## Adverbs
 
-| Hanla | English |
-|-------|---------|
-| 이미  | already |
-| 항상  | always |
-| 자주  | often |
-| 지금  | now |
-| 빨리  | quickly |
-| 천천히 | slowly |
-| 모두    | all       |
+| Hanla | Romanization | IPA | English |
+|-------|--------------|-----|---------|
+| 이미  | imi          | [i.mi] | already |
+| 항상  | hangsang     | [haŋ.saŋ] | always |
+| 자주  | jaju         | [tɕa.dʑu] | often |
+| 지금  | jigeum       | [tɕi.gɯm] | now |
+| 빨리  | ppalli       | [p͈al.li] | quickly |
+| 천천히 | cheoncheonhi | [tɕʰʌn.tɕʰʌn.hi] | slowly |
+| 모두  | modu         | [mo.du] | all |
 
 ---
 
 ## Particles
 
-| Hanla | English Function |
-|-------|------------------|
-| 는    | subject marker |
-| 를    | object marker |
-| 와    | with / and |
-| 의    | of / possessive |
-| 에     | at        |
-| 로 | to |
-| 안에    | in        |
-| 로부터 | from |
+| Hanla   | Romanization | IPA | English Function |
+|---------|--------------|-----|------------------|
+| 는      | neun         | [nɯn] | subject marker  |
+| 를      | reul         | [ɾɯl] | object marker   |
+| 와      | wa           | [wa] | with / and      |
+| 의      | ui           | [ɰi] | of / possessive |
+| 에      | e            | [e] | at              |
+| 로      | ro           | [ɾo] | to              |
+| 안에    | anae         | [a.nɛ] | in             |
+| 로부터  | robuteo      | [ɾo.bu.tʰʌ] | from     |
 
-## Additional Particles (not required for sentence but auxilary)
+---
 
-| Hanla | English Function |
-|-------|------------------|
-| -로서  | as / by means of |
+## Additional Particles
+
+| Hanla | Romanization | IPA | English Function |
+|-------|--------------|-----|------------------|
+| -로서 | -roseo       | [ɾo.sʌ] | as / by means of |
+
+---
 
 ## Clause Linkage
 
-| Hanla | English Function |
-|-------|------------------|
-| A 그리고 B  | A and B  |
-| A 그러면 B   | if A, then B  |
-| A 왜냐하면 B | A because B |
+| Hanla       | Romanization     | IPA | English Function |
+|-------------|------------------|-----|------------------|
+| A 그리고 B  | A geurigo B      | [kɯ.ɾi.go] | A and B |
+| A 그러면 B  | A geureomyeon B  | [kɯ.ɾʌ.mjʌn] | if A, then B |
+| A 왜냐하면 B| A waenyahamyeon B | [wɛ.nja.ha.mjʌn] | A because B |
