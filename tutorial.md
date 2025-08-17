@@ -6,7 +6,7 @@ Hanla uses the Hangul alphabet.
 Hangul was invented in the 15th century by King Sejong of Korea and his scholars.  
 It is known for being one of the most logical and easy-to-learn writing systems in the world.  
 Hangul has a near-perfect one-to-one correspondence between sounds and symbols, making it extremely learner-friendly. 
-There are many contents to teach hangul. for example, [extreamly short](https://youtu.be/TE4eplsFSms?si=C5mXJmyDFPbAqIUJ), [30 minute](https://youtu.be/85qJXvyFrIc?si=DzUqZzVYO5BEocEz), and [hangul.md](hangul.md)
+There are many contents to teach hangul. for example, [5 minute vidoe](https://youtu.be/TE4eplsFSms?si=C5mXJmyDFPbAqIUJ), [30 minute video](https://youtu.be/85qJXvyFrIc?si=DzUqZzVYO5BEocEz), and [hangul.md](hangul.md)
 
 - **Reading**: Each character block represents a syllable.  
 - **Writing**: Characters are constructed by combining consonants and vowels into a block.  
