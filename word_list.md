@@ -1,10 +1,13 @@
 # Hanla Starter Word List
 
-This list provides only the minimal core.  
+This list provides the minimal words which cover Swadesh lists.  
 - **nouns** you can use any nouns from Korean. It will be helpful to find '{Your language} to Korean' Dictionary.
-- **Verbs** are given as stems (roots). The actual verb is created by attaching endings such as `-다` (present), `-었다` (past), `-겠다` (future).  
-- **Adjectives** are used directly before nouns.  
-- **Adverbs** are free-position modifiers.  
+- **Verbs** are given as stems (roots). The actual verb is created by attaching endings such as `-다` (present), `-었다` (past), `-겠다` (future).
+    - even the roots of verbs can be found in Korean dictionary. just detach the following '-다' and replace it with Hanla's ending words.
+    - For example in this [dictionary](https://krdict.korean.go.kr/eng/dicSearch/SearchView?wordMatchFlag=N&mainSearchWord=go&currentPage=1&sort=W&searchType=W&proverbType=&exaType=&ParaWordNo=27500&viewType=A&blockCount=10&viewTypes=on&myViewWord=27500&_csrf=fbd56d81-d3e3-4c08-8c7f-6411352a8262), you can find '가다' with searching 'go' then you detach the '-다' then it becomes the root word, '가-' which means go in Hanla.
+- **Adverbs** are free-position modifiers and also can be found in Korean dictionary without any change.
+- **Adjectives** are used directly before nouns.
+    - adjectives may not be found from Korean dictionary. In Hanla, the application forms of adjectives, trailing with '-ㄴ' in Korean are used as normal forms.
 - **Pronouns** are simplified from Korean.
 
 ---
@@ -161,6 +164,6 @@ This list provides only the minimal core.
 
 | Hanla | English Function |
 |-------|------------------|
-| 그리고  | and       |
-| (clause) 그러면    | if  (clause)  |
-| 왜냐하면| because   |
+| A 그리고 B  | A and B  |
+| A 그러면 B   | if A, then B  |
+| A 왜냐하면 B | A because B |
