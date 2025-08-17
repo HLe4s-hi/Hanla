@@ -29,6 +29,8 @@ Hanla grammar follows three guiding principles:
 The aim is that a learner can read a one-hour tutorial and then parse and produce any sentence.  
 This “one-hour grammar” is the **core promise** of Hanla.
 
+You can find whole grammar in this [tutorial](tutorial.md)
+
 ---
 
 ## 4. Vocabulary
@@ -39,6 +41,8 @@ This choice offers three major advantages:
 3. **Practical benefit** – Learners can reuse this vocabulary when visiting Korea, making the language doubly useful.  
 
 New words can be incorporated seamlessly by adopting existing Korean or international loanwords.  
+The words list can be found in this [link](word_list).
+the list covers Swadesh list for 207 words. 
 
 ---
 
