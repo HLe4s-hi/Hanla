@@ -41,7 +41,7 @@ This choice offers three major advantages:
 3. **Practical benefit** – Learners can reuse this vocabulary when visiting Korea, making the language doubly useful.  
 
 New words can be incorporated seamlessly by adopting existing Korean or international loanwords.  
-The words list can be found in this [link](word_list).
+The words list can be found in this [link](word_list.md).
 the list covers Swadesh list for 207 words. 
 
 ---
