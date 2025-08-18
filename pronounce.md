@@ -17,3 +17,5 @@
    **Special case: complex finals (like ㄳ, ㅄ).**  
    - Only the second consonant moves to the next syllable.  
    - Examples: 닭이다(is a chicken) = [달기다], 앉았다(sat) = [안잗다]
+
+4. Even with these rules, some discrepancies remain between the written and spoken forms, which could make Korean speakers perceive Hanla as Korean.
